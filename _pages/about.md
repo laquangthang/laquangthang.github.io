@@ -19,7 +19,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a 4th-year PhD candidate and NDSEG Fellow in [Prof. Vivek Shenoy’s research group](https://shenoy.seas.upenn.edu) at Penn. I write high performance C++ code and Python data analysis scripts to simulate DNA folding.
 
-# Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-Please check out my [Google Scholar](https://scholar.google.com/citations?user=ru2X5JIAAAAJ&hl=en&oi=ao) and connect with me on [LinkedIn](https://www.linkedin.com/in/james-glazar-87a85a1ba/).
+
+Please check out my [Google Scholar](https://scholar.google.com/citations?user=ru2X5JIAAAAJ&hl=en&oi=ao) and [GitHub](https://github.com/jglazar) profiles and connect with me on [LinkedIn](https://www.linkedin.com/in/james-glazar-87a85a1ba/).
