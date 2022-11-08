@@ -17,10 +17,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 4th-year PhD candidate and NDSEG Fellow in [Prof. Vivek Shenoy’s research group](https://shenoy.seas.upenn.edu) at Penn. I write high performance C++ code and Python data analysis scripts to simulate DNA folding.
+I am a 4th-year PhD candidate and [National Defense Science & Engineering Graduate Fellow](https://ndseg.org/about) in [Prof. Vivek Shenoy’s research group](https://shenoy.seas.upenn.edu) at Penn. 
+I write high-performance C++ code and Python data analysis scripts to simulate DNA folding.
+
+
+I have a bachelor's degree with a double major in Physics and Applied Mathematics & Statistics from Stony Brook University.
+During my undergraduate studies and early in my PhD, I researched electronic properties like [2D materials conductivity](https://pubs.acs.org/doi/abs/10.1021/jacs.0c07395) using density functional theory software.
+
+
+I am also interested in collecting and analyzing cool data sets. 
+Check out my [projects page](/projects/) for a few examples.
+
+
+Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/james-glazar-87a85a1ba/) or via [email](mailto:glazar.james@gmail.com) if you have any questions about my work.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-
-
-Please check out my [Google Scholar](https://scholar.google.com/citations?user=ru2X5JIAAAAJ&hl=en&oi=ao) and [GitHub](https://github.com/jglazar) profiles and connect with me on [LinkedIn](https://www.linkedin.com/in/james-glazar-87a85a1ba/).
+<!-- Please check out my [Google Scholar](https://scholar.google.com/citations?user=ru2X5JIAAAAJ&hl=en&oi=ao) and [GitHub](https://github.com/jglazar) profiles and connect with me on [LinkedIn](https://www.linkedin.com/in/james-glazar-87a85a1ba/). -->
