@@ -10,7 +10,6 @@ Fixed by installing ruby with the devkit following [these](https://stackoverflow
 
 There are a few branches in this GitHub repo. The important one is `source`, which is the website served to the Internet.
 
-
 Preview changes with `bundle exec jekyll serve`. This generates a local web server to live-preview changes to the source code.
 
 
@@ -20,3 +19,8 @@ Push to GitHub with `git push -u origin source` (not `origin main`!).
 
 Then update page with `./bin/deploy --user`
 The template will update the front-facing website using a GitHub Pages action.
+
+
+# Content
+Include teaching materials like Mathematica scripts for HS kids / old tutees.
+link to CCFs published online
