@@ -6,18 +6,18 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: QuangThang_1.jpeg
   image_circular: false # crops the image to make it circular
   #address: >
-  #  <p>Philadelphia, PA</p>
+  <p> Ho Chi Minh, VietNam </p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a computational researcher and [National Defense Science & Engineering Graduate Fellow](https://ndseg.org/about) with over 
-5 years of experience solving research questions by writing code and analyzing data. 
+I am a final graduate student at [SchooL of Economic Mathematics - Statistics](https://sems.ueh.edu.vn/) University of Economics Ho Chi Minh City.
+My major is Bussiness Statistics,....
 
 My current work in [Prof. Vivek Shenoy’s research group](https://shenoy.seas.upenn.edu) at Penn focuses on [DNA architecture](/dissertation/) 
 -- it's fascinating to me how 6 feet of DNA packs into a volume smaller than the head of a pin. 
