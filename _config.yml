@@ -60,8 +60,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: laquangthang # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: jglazar # your LinkedIn user name
-scholar_userid: ru2X5JIAAAAJ # your Google Scholar ID
+linkedin_username: # your LinkedIn user name
+scholar_userid:  # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -81,8 +81,8 @@ spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
-facebook_id: # your facebook id
-discord_id: # your discord id (18-digit unique numerical identifier)
+facebook_id: thangla2207 # your facebook id
+discord_id: 2iamthang # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
   
