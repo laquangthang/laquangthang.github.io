@@ -18,35 +18,34 @@ The research, conducted in April 2010 by The Pathfinder, focused on understandin
 The primary goal of this analysis and the accompanying interactive dashboard is to gain actionable insights from the 2010 market research survey. This includes evaluating Hoa Tho's brand health, competitive positioning, brand identity perception, and target audience preferences, thereby providing a data-driven foundation for Hoa Tho's management, marketing, and product development teams to formulate effective branding and market penetration strategies.<br>
 This dashboard and report aims to answer critical business questions for Hoa Tho stakeholders (Management, Marketing, Product Development, Sales):<br>
 
-<h3> Brand Health & Performance:</h3>
+<h5> Brand Health & Performance:</h5>
 
-- How aware are target consumers (men's office wear buyers) of the Hoa Tho brand compared to key competitors (Viettien, May 10, An Phuoc, etc.)? (Top-of-Mind, Unaided and Aided)<br>
-- What is Hoa Tho's market penetration in terms of usage (ever purchased, main brand)? How does this vary by region (Hanoi, Da Nang, Ho Chi Minh city)?<br>
-- How satisfied are current Hoa Tho users? How does this compare to competitors?<br>
-- What are the primary reasons consumers choose Hoa Tho? What are the main reasons they don't choose or stop using Hoa Tho?<br>
+    - How aware are target consumers (men's office wear buyers) of the Hoa Tho brand compared to key competitors (Viettien, May 10, An Phuoc, etc.)? (Top-of-Mind, Unaided and Aided)<br>
+    - What is Hoa Tho's market penetration in terms of usage (ever purchased, main brand)? How does this vary by region (Hanoi, Da Nang, Ho Chi Minh city)?<br>
+    - How satisfied are current Hoa Tho users? How does this compare to competitors?<br>
+    - What are the primary reasons consumers choose Hoa Tho? What are the main reasons they don't choose or stop using Hoa Tho?<br>
 
-<h3> Positioning & Brand Image:</h3>
+<h5> Positioning & Brand Image:</h5>
 
-- How is Hoa Tho perceived on key attributes (e.g., fabric quality, sewing quality, design variety, price, service, company reputation) relative to competitors?<br>
+    -  How is Hoa Tho perceived on key attributes (e.g., fabric quality, sewing quality, design variety, price, service, company reputation) relative to competitors?<br>
 What is the perceived personality of the Hoa Tho brand (e.g., traditional, modern, reliable, premium)?<br>
-- Where does Hoa Tho stand in the competitive landscape based on consumer perceptions?<br>
-Brand Identity Perception:<br>
-- How memorable and recognizable is the Hoa Tho logo (colors, specific elements, icon)?<br>
-What thoughts, feelings, or associations does the current Hoa Tho logo evoke?<br>
-- How is the parent company (Hoa Tho Corporation) perceived? How much trust is associated with it?<br>
-- What is the perceived potential and credibility of Hoa Tho launching a new, potentially premium, brand? What type of brand name (Vietnamese vs. Foreign, with/without diacritics) is preferred for such a brand?<br>
+    - Where does Hoa Tho stand in the competitive landscape based on consumer perceptions?<br>
+<h5>Brand Identity Perception:</h5>
+    - How memorable and recognizable is the Hoa Tho logo (colors, specific elements, icon)? What thoughts, feelings, or associations does the current Hoa Tho logo evoke?<br>
+    - How is the parent company (Hoa Tho Corporation) perceived? How much trust is associated with it?<br>
+    - What is the perceived potential and credibility of Hoa Tho launching a new, potentially premium, brand? What type of brand name (Vietnamese vs. Foreign, with/without diacritics) is preferred for such a brand?<br>
 
-<h3> Market & Customer Insights:</h3>
+<h5> Market & Customer Insights:</h5>
 
-- What are the demographic and socio-economic characteristics of the target audience?<br>
-- What factors are most important to consumers when selecting men's office wear?<br>
+    - What are the demographic and socio-economic characteristics of the target audience?<br>
+    - What factors are most important to consumers when selecting men's office wear?<br>
 How much are different consumer segments (by city, SES, age) willing to spend on office wear (regular vs. premium)?<br>
 
-<h3> Concept & Strategy Viability:</h3>
+<h5> Concept & Strategy Viability:</h5>
 
-- How receptive is the target market to a new concept focused on "Comfortable Office Wear"?<br>
-- How important and credible are specific brand promises like "Honesty & Transparency" and "Strict Warranty Commitment"? Does credibility vary by region?<br>
-- Which communication channels are most effective for reaching the target audience?<br>
+    - How receptive is the target market to a new concept focused on "Comfortable Office Wear"?<br>
+    - How important and credible are specific brand promises like "Honesty & Transparency" and "Strict Warranty Commitment"? Does credibility vary by region?<br>
+    - Which communication channels are most effective for reaching the target audience?<br>
 
 <h3> The dataset</h3>
 
@@ -60,7 +59,7 @@ The analysis is based on primary quantitative data collected through a market re
 <h3> The dashboard</h3>
 
 The findings are presented in an interactive, multi-page Power BI dashboard. This format allows stakeholders to dynamically explore the data, apply filters across various dimensions (e.g., City, Class, Age Group, Education Level), and drill down into specific areas for deeper understanding. The dashboard is structured logically to guide users through the analysis:<br>
-Home: An introductory page setting the context for the report<br>
+<b>Home:</b> An introductory page setting the context for the report<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -113,7 +112,7 @@ Home: An introductory page setting the context for the report<br>
 - <b>Strengths Among Loyalists:</b> Existing Hoa Tho users (though few) appreciate its perceived value (fair price - 50%), design variety (50%), and especially its sewing quality/craftsmanship (30%).<br>
 - <b>Positioning Mismatch:</b> Hoa Tho is perceived as a traditional, large-scale garment manufacturer focused on office wear, with reasonable prices. It lacks strong associations with high fabric quality, durability, modern style, or premium status compared to competitors. Its personality leans towards traditional/serious.<br>
 - <b>Weak Brand Identity:</b> The current Hoa Tho logo and icon suffer from extremely poor recall (color, details, meaning) and weak, often non-existent or negative (plain, outdated), associations.<br>
-- <b>Concept Validation: The "Comfortable Office Wear" concept tested very positively across all segments, aligning well with core consumer needs for quality, value, and a professional appearance.<br>
+- <b>Concept Validation:</b> The "Comfortable Office Wear" concept tested very positively across all segments, aligning well with core consumer needs for quality, value, and a professional appearance.<br>
 - <b>Claim Credibility Varies:</b> Claims around "Transparency" and "Warranty" are deemed highly important, but trust levels are significantly lower in HCMC compared to HN and Da Nang, indicating regional skepticism.<br>
 - <b>Naming Preference:</b> Clear preference for Vietnamese brand names (both with and without diacritics accepted) over foreign names for a new premium brand.<br>
 Parent Company Leverage:</b> The Hoa Tho Corporation name carries significant weight, with high trust (82%) and belief (91%) in its capability to successfully launch a quality premium brand, offering a strong leverage point.<br>
