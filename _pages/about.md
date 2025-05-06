@@ -16,24 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a final graduate student at [SchooL of Economic Mathematics - Statistics](https://sems.ueh.edu.vn/) University of Economics Ho Chi Minh City.
-My major is Bussiness Statistics,....
+-Currently, in my final year specializing in Business Statistics at the [SchooL of Economic Mathematics - Statistics](https://sems.ueh.edu.vn/) University of Economics Ho Chi Minh City. I'm deeply engaged by how robust statistical models and data analysis can illuminate complex business landscapes. It's incredibly rewarding to transform raw datasets into coherent narratives that guide strategic decisions, much like a detective uncovering crucial evidence. My academic projects and self-driven learning have allowed me to hone my skills in tools like Excel, SPSS, R, and Power BI, and I particularly enjoy the challenge of structuring data and building visualizations that reveal underlying trends.
+Previously in my studies, I've focused on developing a strong foundation in econometric modeling and survey data analysis, always seeking to understand the 'why' behind the numbers – you can see more details in my projects and research contributions.
+I find great satisfaction in leveraging data to solve practical problems and am keen on sharing this enthusiasm. I've actively participated in research clubs and tech groups at UEH, aiming to bridge theoretical knowledge with real-world application.
+Next, I'm eager to find an internship role  where I can contribute to meaningful projects, further develop my skills in a professional environment, and make a tangible impact by ensuring data quality and supporting data-driven insights.
 
-My current work in [Prof. Vivek Shenoy’s research group](https://shenoy.seas.upenn.edu) at Penn focuses on [DNA architecture](/dissertation/) 
--- it's fascinating to me how 6 feet of DNA packs into a volume smaller than the head of a pin. 
-I am writing high-performance code in C++ and data analysis scripts in Python to look more closely at important structures called 
-lamin-associated domains (LADs). 
-
-Earlier in my PhD, I developed my computational skills studying the electronic structure of [2D materials](/projects/mx_project)
-and [applying machine learning](/projects/mp_project) to guide materials searches -- see my [projects](/projects/) section for more.
-
-I feel energized when I can use my programming skills to [teach others](/teaching/) about math and science. 
-I am planning a machine learning workshop for graduate students at Penn this spring!
-
-Next, I want to find a role where I can make an impact building scalable systems to tackle big data challenges.
-
-Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jglazar) or via [email](mailto:glazar.james@gmail.com) if you have any questions about my work.
-
-<!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
-<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-<!-- Please check out my [Google Scholar](https://scholar.google.com/citations?user=ru2X5JIAAAAJ&hl=en&oi=ao) and [GitHub](https://github.com/jglazar) profiles and connect with me on [LinkedIn](https://www.linkedin.com/in/james-glazar-87a85a1ba/). -->
+Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thang-la-286450351/) or via [email](mailto:lathang.data2207@gmail.com) if you have any questions about my work.
