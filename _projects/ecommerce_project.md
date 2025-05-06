@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Walmart Ecommerce Analysis Dashboard
-description: 
+description: Personal practice project
 img: assets/img/Walmart.jpg
 importance: 1
 category: work
@@ -30,9 +30,7 @@ The dataset presumably includes detailed information on: <br>
 + Return data (Order ID, Return Reason)<br>
 
 
-## Picking a stock
-
-<h2> The report </h2>
+## The report
 Unlike a static PDF, the output is an interactive, multi-page dashboard. This allows stakeholders to explore the data dynamically, filter by different dimensions (Year, Category, Location, Delivery Type, Zone), and drill down into specific areas of interest. The dashboard is structured as following:
 <b>Home:</b> Welcome page. <br>
 <div class="row">
@@ -77,7 +75,7 @@ Unlike a static PDF, the output is an interactive, multi-page dashboard. This al
 		class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<br
+<br>
 
 
 ## Key Insights
@@ -86,5 +84,5 @@ Unlike a static PDF, the output is an interactive, multi-page dashboard. This al
 2. <p><b>Category Performance:</b> "Health and beauty" and "Fashion" are the leading categories for both Revenue and Profit. "Electronics" contributes the least. Interestingly, profit margins are quite similar (around 56%) across most major categories.</p>
 3. <p><b>Zone Dominance & Opportunity:</b> Zone 3 significantly outperforms other zones in both Revenue and Profit, showing particularly strong growth in 2020. This highlights an opportunity to investigate and potentially replicate Zone 3's success factors in other zones (Zone 1, 2, 4). Zone 1 presents an interesting case with high profit from only one location.</p>
 4. <p><b>Top Products Identified:</b> Specific products driving significant revenue were identified (e.g., Avon Soft Musk, Triple Power C20 Speaker, Yazole Watch), providing focus for marketing or inventory management.</p>
-5.<p><b> Return Rate Concerns:</b> A substantial return rate of 27.18% was observed. The primary driver is "Quality-Defective item," indicating potential issues with product quality control or supplier management that need addressing. Delivery-related issues ("Missing item/part," "Wrong item") are secondary but also significant factors.</p>
+5. <p><b> Return Rate Concerns:</b> A substantial return rate of 27.18% was observed. The primary driver is "Quality-Defective item," indicating potential issues with product quality control or supplier management that need addressing. Delivery-related issues ("Missing item/part," "Wrong item") are secondary but also significant factors.</p>
 6. <p><b>Purchasing Patterns:</b> The quantity per order is generally low and quite similar across transactions. Peak sales activity seems concentrated in the first five months of the year (Jan-May) and is distributed fairly evenly across the days of the week.</p>
