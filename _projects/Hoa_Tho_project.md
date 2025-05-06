@@ -13,18 +13,20 @@ This project involves the analysis of market research data commissioned by Tong 
 The research, conducted in April 2010 by The Pathfinder, focused on understanding Hoa Tho's brand positioning and identity within the competitive men's office wear market segment. <br>
 
 
-## Primary Goal
+<h3> Primary Goal </h3>
 
 The primary goal of this analysis and the accompanying interactive dashboard is to gain actionable insights from the 2010 market research survey. This includes evaluating Hoa Tho's brand health, competitive positioning, brand identity perception, and target audience preferences, thereby providing a data-driven foundation for Hoa Tho's management, marketing, and product development teams to formulate effective branding and market penetration strategies.<br>
 This dashboard and report aims to answer critical business questions for Hoa Tho stakeholders (Management, Marketing, Product Development, Sales):<br>
 
 ## Brand Health & Performance:
+
 - How aware are target consumers (men's office wear buyers) of the Hoa Tho brand compared to key competitors (Viettien, May 10, An Phuoc, etc.)? (Top-of-Mind, Unaided and Aided)<br>
 - What is Hoa Tho's market penetration in terms of usage (ever purchased, main brand)? How does this vary by region (Hanoi, Da Nang, Ho Chi Minh city)?<br>
 - How satisfied are current Hoa Tho users? How does this compare to competitors?<br>
 - What are the primary reasons consumers choose Hoa Tho? What are the main reasons they don't choose or stop using Hoa Tho?<br>
 
 ## Positioning & Brand Image:
+
 - How is Hoa Tho perceived on key attributes (e.g., fabric quality, sewing quality, design variety, price, service, company reputation) relative to competitors?<br>
 What is the perceived personality of the Hoa Tho brand (e.g., traditional, modern, reliable, premium)?<br>
 - Where does Hoa Tho stand in the competitive landscape based on consumer perceptions?<br>
@@ -35,16 +37,19 @@ What thoughts, feelings, or associations does the current Hoa Tho logo evoke?<br
 - What is the perceived potential and credibility of Hoa Tho launching a new, potentially premium, brand? What type of brand name (Vietnamese vs. Foreign, with/without diacritics) is preferred for such a brand?<br>
 
 ## Market & Customer Insights:
+
 - What are the demographic and socio-economic characteristics of the target audience?<br>
 - What factors are most important to consumers when selecting men's office wear?<br>
 How much are different consumer segments (by city, SES, age) willing to spend on office wear (regular vs. premium)?<br>
 
 ## Concept & Strategy Viability:
+
 - How receptive is the target market to a new concept focused on "Comfortable Office Wear"?<br>
 - How important and credible are specific brand promises like "Honesty & Transparency" and "Strict Warranty Commitment"? Does credibility vary by region?<br>
 - Which communication channels are most effective for reaching the target audience?<br>
 
 ## The dataset
+
 The analysis is based on primary quantitative data collected through a market research survey conducted by The Pathfinder in April 2010.<br>
 <b>Source:</b> Face-to-face interviews using a structured questionnaire.<br>
 <b>Sample:</b> 500 male respondents aged 20-55.<br>
@@ -53,6 +58,7 @@ The analysis is based on primary quantitative data collected through a market re
 <b>Data Collected:</b> Brand awareness (TOM/unaided/aided), brand usage & frequency, brand loyalty & satisfaction, reasons for choice/rejection, importance ratings for product/service attributes, brand image/personality associations, logo/icon recall & perception, name preference testing, concept testing ("Comfortable Office Wear", specific claims), price sensitivity/willingness-to-pay, media consumption/channel exposure, and detailed demographics<br>
 
 ## The dashboard
+
 The findings are presented in an interactive, multi-page Power BI dashboard. This format allows stakeholders to dynamically explore the data, apply filters across various dimensions (e.g., City, Class, Age Group, Education Level), and drill down into specific areas for deeper understanding. The dashboard is structured logically to guide users through the analysis:<br>
 Home: An introductory page setting the context for the report<br>
 
@@ -100,6 +106,7 @@ Home: An introductory page setting the context for the report<br>
 <br>
 
 ## Key Insights
+
 - <b>Dominant Competitor & Awareness Gap:</b> Viettien holds a commanding lead in awareness and usage. Hoa Tho suffers from very low Top-of-Mind and unaided awareness overall, making it largely invisible in Hanoi and HCMC.<br>
 - <b>Da Nang Stronghold & Paradox:</b> Da Nang is Hoa Tho's key market with significantly higher aided awareness (88%) and usage (24%). However, this market also shows a high rejection rate (24% “won't buy/use”), indicating deep-seated issues even where known.<br>
 - <b>Quality Perception is Critical Barrier:</b> The primary reasons for not choosing Hoa Tho are related to perceived poor fabric quality (fades easily, feels poor - 53% & 41% respectively) and being relatively unknown (24%).<br>
