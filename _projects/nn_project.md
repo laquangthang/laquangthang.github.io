@@ -8,51 +8,51 @@ category: work
 ---
 <div style="text-align: justify">
 Let's explore my final project for the Marketing Data Analysis class I took at UEH. 
-About this project
+About this project <br>
 This project involves the analysis of market research data commissioned by Tong Cong Ty Co Phan Det May Hoa Tho (Hoa Tho Corporation), a major player in the Vietnamese textile and garment industry. 
-The research, conducted in April 2010 by The Pathfinder, focused on understanding Hoa Tho's brand positioning and identity within the competitive men's office wear market segment. 
+The research, conducted in April 2010 by The Pathfinder, focused on understanding Hoa Tho's brand positioning and identity within the competitive men's office wear market segment. <br>
 
-Primary Goal
-The primary goal of this analysis and the accompanying interactive dashboard is to gain actionable insights from the 2010 market research survey. This includes evaluating Hoa Tho's brand health, competitive positioning, brand identity perception, and target audience preferences, thereby providing a data-driven foundation for Hoa Tho's management, marketing, and product development teams to formulate effective branding and market penetration strategies.
-This dashboard and report aims to answer critical business questions for Hoa Tho stakeholders (Management, Marketing, Product Development, Sales):
+Primary Goal<br>
+The primary goal of this analysis and the accompanying interactive dashboard is to gain actionable insights from the 2010 market research survey. This includes evaluating Hoa Tho's brand health, competitive positioning, brand identity perception, and target audience preferences, thereby providing a data-driven foundation for Hoa Tho's management, marketing, and product development teams to formulate effective branding and market penetration strategies.<br>
+This dashboard and report aims to answer critical business questions for Hoa Tho stakeholders (Management, Marketing, Product Development, Sales):<br>
 
-Brand Health & Performance:
-- How aware are target consumers (men's office wear buyers) of the Hoa Tho brand compared to key competitors (Viettien, May 10, An Phuoc, etc.)? (Top-of-Mind, Unaided and Aided)
-- What is Hoa Tho's market penetration in terms of usage (ever purchased, main brand)? How does this vary by region (Hanoi, Da Nang, Ho Chi Minh city)?
-- How satisfied are current Hoa Tho users? How does this compare to competitors?
-- What are the primary reasons consumers choose Hoa Tho? What are the main reasons they don't choose or stop using Hoa Tho?
+Brand Health & Performance:<br>
+- How aware are target consumers (men's office wear buyers) of the Hoa Tho brand compared to key competitors (Viettien, May 10, An Phuoc, etc.)? (Top-of-Mind, Unaided and Aided)<br>
+- What is Hoa Tho's market penetration in terms of usage (ever purchased, main brand)? How does this vary by region (Hanoi, Da Nang, Ho Chi Minh city)?<br>
+- How satisfied are current Hoa Tho users? How does this compare to competitors?<br>
+- What are the primary reasons consumers choose Hoa Tho? What are the main reasons they don't choose or stop using Hoa Tho?<br>
 
-Positioning & Brand Image:
-- How is Hoa Tho perceived on key attributes (e.g., fabric quality, sewing quality, design variety, price, service, company reputation) relative to competitors?
-What is the perceived personality of the Hoa Tho brand (e.g., traditional, modern, reliable, premium)?
-Where does Hoa Tho stand in the competitive landscape based on consumer perceptions?
-Brand Identity Perception:
-- How memorable and recognizable is the Hoa Tho logo (colors, specific elements, icon)?
-What thoughts, feelings, or associations does the current Hoa Tho logo evoke?
-- How is the parent company (Hoa Tho Corporation) perceived? How much trust is associated with it?
-- What is the perceived potential and credibility of Hoa Tho launching a new, potentially premium, brand? What type of brand name (Vietnamese vs. Foreign, with/without diacritics) is preferred for such a brand?
+Positioning & Brand Image:<br>
+- How is Hoa Tho perceived on key attributes (e.g., fabric quality, sewing quality, design variety, price, service, company reputation) relative to competitors?<br>
+What is the perceived personality of the Hoa Tho brand (e.g., traditional, modern, reliable, premium)?<br>
+- Where does Hoa Tho stand in the competitive landscape based on consumer perceptions?<br>
+Brand Identity Perception:<br>
+- How memorable and recognizable is the Hoa Tho logo (colors, specific elements, icon)?<br>
+What thoughts, feelings, or associations does the current Hoa Tho logo evoke?<br>
+- How is the parent company (Hoa Tho Corporation) perceived? How much trust is associated with it?<br>
+- What is the perceived potential and credibility of Hoa Tho launching a new, potentially premium, brand? What type of brand name (Vietnamese vs. Foreign, with/without diacritics) is preferred for such a brand?<br>
 
-Market & Customer Insights:
-- What are the demographic and socio-economic characteristics of the target audience?
-- What factors are most important to consumers when selecting men's office wear?
-How much are different consumer segments (by city, SES, age) willing to spend on office wear (regular vs. premium)?
+Market & Customer Insights:<br>
+- What are the demographic and socio-economic characteristics of the target audience?<br>
+- What factors are most important to consumers when selecting men's office wear?<br>
+How much are different consumer segments (by city, SES, age) willing to spend on office wear (regular vs. premium)?<br>
 
-Concept & Strategy Viability:
-- How receptive is the target market to a new concept focused on "Comfortable Office Wear"?
-- How important and credible are specific brand promises like "Honesty & Transparency" and "Strict Warranty Commitment"? Does credibility vary by region?
-- Which communication channels are most effective for reaching the target audience?
+Concept & Strategy Viability:<br>
+- How receptive is the target market to a new concept focused on "Comfortable Office Wear"?<br>
+- How important and credible are specific brand promises like "Honesty & Transparency" and "Strict Warranty Commitment"? Does credibility vary by region?<br>
+- Which communication channels are most effective for reaching the target audience?<br>
 
-The dataset
-The analysis is based on primary quantitative data collected through a market research survey conducted by The Pathfinder in April 2010.
-Source: Face-to-face interviews using a structured questionnaire.
-Sample: 500 male respondents aged 20-55.
-Targeting Criteria: Belonging to Socio-Economic Status groups A, B, or C; regularly purchase and wear office attire (shirts, trousers); purchased office wear within the last 3 months; intended to purchase within the next 6 months.
-Geography: Respondents recruited from three major Vietnamese cities: Hanoi (n=150), Da Nang (n=200), and Ho Chi Minh City (n=150). Quota sampling was employed based on city, age group (20-35 vs. 36-55), and class (A-B vs. C).
-Data Collected: Brand awareness (TOM/unaided/aided), brand usage & frequency, brand loyalty & satisfaction, reasons for choice/rejection, importance ratings for product/service attributes, brand image/personality associations, logo/icon recall & perception, name preference testing, concept testing ("Comfortable Office Wear", specific claims), price sensitivity/willingness-to-pay, media consumption/channel exposure, and detailed demographics
+The dataset<br>
+The analysis is based on primary quantitative data collected through a market research survey conducted by The Pathfinder in April 2010.<br>
+Source: Face-to-face interviews using a structured questionnaire.<br>
+Sample: 500 male respondents aged 20-55.<br>
+Targeting Criteria: Belonging to Socio-Economic Status groups A, B, or C; regularly purchase and wear office attire (shirts, trousers); purchased office wear within the last 3 months; intended to purchase within the next 6 months.<br>
+Geography: Respondents recruited from three major Vietnamese cities: Hanoi (n=150), Da Nang (n=200), and Ho Chi Minh City (n=150). Quota sampling was employed based on city, age group (20-35 vs. 36-55), and class (A-B vs. C).<br>
+Data Collected: Brand awareness (TOM/unaided/aided), brand usage & frequency, brand loyalty & satisfaction, reasons for choice/rejection, importance ratings for product/service attributes, brand image/personality associations, logo/icon recall & perception, name preference testing, concept testing ("Comfortable Office Wear", specific claims), price sensitivity/willingness-to-pay, media consumption/channel exposure, and detailed demographics<br>
 
-The report/dashboard
-The findings are presented in an interactive, multi-page Power BI dashboard. This format allows stakeholders to dynamically explore the data, apply filters across various dimensions (e.g., City, Class, Age Group, Education Level), and drill down into specific areas for deeper understanding. The dashboard is structured logically to guide users through the analysis:
-Home: An introductory page setting the context for the report
+The report/dashboard<br>
+The findings are presented in an interactive, multi-page Power BI dashboard. This format allows stakeholders to dynamically explore the data, apply filters across various dimensions (e.g., City, Class, Age Group, Education Level), and drill down into specific areas for deeper understanding. The dashboard is structured logically to guide users through the analysis:<br>
+Home: An introductory page setting the context for the report<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -60,8 +60,8 @@ Home: An introductory page setting the context for the report
 		class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-Brand Health: Key performance indicators related to brand awareness, usage levels, user satisfaction ratings, and the underlying reasons driving brand choice or rejection.
+<br>
+Brand Health: Key performance indicators related to brand awareness, usage levels, user satisfaction ratings, and the underlying reasons driving brand choice or rejection.<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -69,8 +69,8 @@ Brand Health: Key performance indicators related to brand awareness, usage level
 		class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-    
-Positioning & Brand Image: Analysis of Hoa Tho's perceived strengths and weaknesses on key attributes, competitive positioning maps (using Correspondence Analysis), and exploration of the brand's perceived personality.
+<br>  
+Positioning & Brand Image: Analysis of Hoa Tho's perceived strengths and weaknesses on key attributes, competitive positioning maps (using Correspondence Analysis), and exploration of the brand's perceived personality.<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -78,34 +78,35 @@ Positioning & Brand Image: Analysis of Hoa Tho's perceived strengths and weaknes
 		class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-	
-Logo & Brand Identity: Evaluation of the current logo's effectiveness (recall, recognition, associations), testing name preferences, and assessing perceptions of the parent company and its potential to launch new brands. 
-Concept Test, Pricing & Channels: Assessment of the "Comfortable Office Wear" concept, evaluation of specific marketing claims, analysis of price points across segments, and insights into effective communication channels
+<br>	
+Logo & Brand Identity: Evaluation of the current logo's effectiveness (recall, recognition, associations), testing name preferences, and assessing perceptions of the parent company and its potential to launch new brands. <br>
+Concept Test, Pricing & Channels: Assessment of the "Comfortable Office Wear" concept, evaluation of specific marketing claims, analysis of price points across segments, and insights into effective communication channels.<br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/HoaTho_4.png" title="Home Page" 
 		class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-Summary & Recommendations: A concluding page summarizing the most critical findings and outlining strategic recommendations for Hoa Tho based on the data analysis. Beside that is a visual breakdown of the sample characteristics (geography, age, class, education, income, marital status).	
+<br>
+Summary & Recommendations: A concluding page summarizing the most critical findings and outlining strategic recommendations for Hoa Tho based on the data analysis. Beside that is a visual breakdown of the sample characteristics (geography, age, class, education, income, marital status).	<br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/HoaTho_5.png" title="Home Page" 
 		class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-Key Insights
-- Dominant Competitor & Awareness Gap: Viettien holds a commanding lead in awareness and usage. Hoa Tho suffers from very low Top-of-Mind and unaided awareness overall, making it largely invisible in Hanoi and HCMC.
-- Da Nang Stronghold & Paradox: Da Nang is Hoa Tho's key market with significantly higher aided awareness (88%) and usage (24%). However, this market also shows a high rejection rate (24% “won't buy/use”), indicating deep-seated issues even where known.
-- Quality Perception is Critical Barrier: The primary reasons for not choosing Hoa Tho are related to perceived poor fabric quality (fades easily, feels poor - 53% & 41% respectively) and being relatively unknown (24%).
-- Strengths Among Loyalists: Existing Hoa Tho users (though few) appreciate its perceived value (fair price - 50%), design variety (50%), and especially its sewing quality/craftsmanship (30%).
-- Positioning Mismatch: Hoa Tho is perceived as a traditional, large-scale garment manufacturer focused on office wear, with reasonable prices. It lacks strong associations with high fabric quality, durability, modern style, or premium status compared to competitors. Its personality leans towards traditional/serious.
-- Weak Brand Identity: The current Hoa Tho logo and icon suffer from extremely poor recall (color, details, meaning) and weak, often non-existent or negative (plain, outdated), associations.
-- Concept Validation: The "Comfortable Office Wear" concept tested very positively across all segments, aligning well with core consumer needs for quality, value, and a professional appearance.
-- Claim Credibility Varies: Claims around "Transparency" and "Warranty" are deemed highly important, but trust levels are significantly lower in HCMC compared to HN and Da Nang, indicating regional skepticism.
-- Naming Preference: Clear preference for Vietnamese brand names (both with and without diacritics accepted) over foreign names for a new premium brand.
-Parent Company Leverage: The Hoa Tho Corporation name carries significant weight, with high trust (82%) and belief (91%) in its capability to successfully launch a quality premium brand, offering a strong leverage point.
-- Price Sensitivity & Regional Differences: Consumers are price-conscious, but clear willingness exists (especially among A-B segments and in Hanoi) to pay higher prices for perceived value/quality. Spending power is highest in Hanoi, followed by HCMC, then Da Nang.
-- Channel Deficiency: Brand visibility heavily relies on physical points of sale (stores, trade fairs). Presence in other media and especially digital channels was extremely low (as of 2010), indicating a major gap.
+<br>
+Key Insights<br>
+- Dominant Competitor & Awareness Gap: Viettien holds a commanding lead in awareness and usage. Hoa Tho suffers from very low Top-of-Mind and unaided awareness overall, making it largely invisible in Hanoi and HCMC.<br>
+- Da Nang Stronghold & Paradox: Da Nang is Hoa Tho's key market with significantly higher aided awareness (88%) and usage (24%). However, this market also shows a high rejection rate (24% “won't buy/use”), indicating deep-seated issues even where known.<br>
+- Quality Perception is Critical Barrier: The primary reasons for not choosing Hoa Tho are related to perceived poor fabric quality (fades easily, feels poor - 53% & 41% respectively) and being relatively unknown (24%).<br>
+- Strengths Among Loyalists: Existing Hoa Tho users (though few) appreciate its perceived value (fair price - 50%), design variety (50%), and especially its sewing quality/craftsmanship (30%).<br>
+- Positioning Mismatch: Hoa Tho is perceived as a traditional, large-scale garment manufacturer focused on office wear, with reasonable prices. It lacks strong associations with high fabric quality, durability, modern style, or premium status compared to competitors. Its personality leans towards traditional/serious.<br>
+- Weak Brand Identity: The current Hoa Tho logo and icon suffer from extremely poor recall (color, details, meaning) and weak, often non-existent or negative (plain, outdated), associations.<br>
+- Concept Validation: The "Comfortable Office Wear" concept tested very positively across all segments, aligning well with core consumer needs for quality, value, and a professional appearance.<br>
+- Claim Credibility Varies: Claims around "Transparency" and "Warranty" are deemed highly important, but trust levels are significantly lower in HCMC compared to HN and Da Nang, indicating regional skepticism.<br>
+- Naming Preference: Clear preference for Vietnamese brand names (both with and without diacritics accepted) over foreign names for a new premium brand.<br>
+Parent Company Leverage: The Hoa Tho Corporation name carries significant weight, with high trust (82%) and belief (91%) in its capability to successfully launch a quality premium brand, offering a strong leverage point.<br>
+- Price Sensitivity & Regional Differences: Consumers are price-conscious, but clear willingness exists (especially among A-B segments and in Hanoi) to pay higher prices for perceived value/quality. Spending power is highest in Hanoi, followed by HCMC, then Da Nang.<br>
+- Channel Deficiency: Brand visibility heavily relies on physical points of sale (stores, trade fairs). Presence in other media and especially digital channels was extremely low (as of 2010), indicating a major gap.<br>
 </div>
