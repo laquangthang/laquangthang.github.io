@@ -17,7 +17,7 @@ See below, or click this [link](../assets/pdf/WorldQuant Challenge Gold Certific
     </object>
 </div>
 <br>
-<h3>WorldQuant Challenge Gold Certificate</h3>
+<h3>WorldQuant IQC2024 Stage 1 Winner</h3>
 See below, or click this [link](../assets/pdf/WorldQuant IQC2024 Stage 1 Winner Certificate.pdf)
 
 <div style="margin-left: auto;margin-right: auto;">
