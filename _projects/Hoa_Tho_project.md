@@ -65,7 +65,7 @@ Home: An introductory page setting the context for the report<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/HoaTho_2.png" title="Home Page" 
+        {% include figure.html path="assets/img/HoaTho_2.png" title="Brand Health" 
 		class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -74,7 +74,7 @@ Home: An introductory page setting the context for the report<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/HoaTho_3.png" title="Home Page" 
+        {% include figure.html path="assets/img/HoaTho_3.png" title="Positioning & Brand Image" 
 		class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -83,7 +83,7 @@ Home: An introductory page setting the context for the report<br>
 <b>Concept Test, Pricing & Channels:</b> Assessment of the "Comfortable Office Wear" concept, evaluation of specific marketing claims, analysis of price points across segments, and insights into effective communication channels.<br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/HoaTho_4.png" title="Home Page" 
+        {% include figure.html path="assets/img/HoaTho_4.png" title="Logo & Brand Identity" 
 		class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -91,7 +91,7 @@ Home: An introductory page setting the context for the report<br>
 <b>Summary & Recommendations:</b> A concluding page summarizing the most critical findings and outlining strategic recommendations for Hoa Tho based on the data analysis. Beside that is a visual breakdown of the sample characteristics (geography, age, class, education, income, marital status).	<br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/HoaTho_5.png" title="Home Page" 
+        {% include figure.html path="assets/img/HoaTho_5.png" title="Summary & Recommendations" 
 		class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
