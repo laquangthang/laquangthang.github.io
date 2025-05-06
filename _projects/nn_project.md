@@ -2,11 +2,11 @@
 layout: page
 title: Hoa Tho Brand Positioning & Identity Analysis
 description: Final project from Marketing Data Analysis class at UEH
-img: assets/img/Hoa Tho.png
+img: assets/img/Hoa Tho.jpg
 importance: 1
 category: work
 ---
-
+<div style="text-align: justify">
 Let's explore my final project for the Marketing Data Analysis class I took at UEH. 
 About this project
 This project involves the analysis of market research data commissioned by Tong Cong Ty Co Phan Det May Hoa Tho (Hoa Tho Corporation), a major player in the Vietnamese textile and garment industry. 
@@ -94,16 +94,18 @@ Summary & Recommendations: A concluding page summarizing the most critical findi
 		class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 Key Insights
-Dominant Competitor & Awareness Gap: Viettien holds a commanding lead in awareness and usage. Hoa Tho suffers from very low Top-of-Mind and unaided awareness overall, making it largely invisible in Hanoi and HCMC.
-Da Nang Stronghold & Paradox: Da Nang is Hoa Tho's key market with significantly higher aided awareness (88%) and usage (24%). However, this market also shows a high rejection rate (24% “won't buy/use”), indicating deep-seated issues even where known.
-Quality Perception is Critical Barrier: The primary reasons for not choosing Hoa Tho are related to perceived poor fabric quality (fades easily, feels poor - 53% & 41% respectively) and being relatively unknown (24%).
-Strengths Among Loyalists: Existing Hoa Tho users (though few) appreciate its perceived value (fair price - 50%), design variety (50%), and especially its sewing quality/craftsmanship (30%).
-Positioning Mismatch: Hoa Tho is perceived as a traditional, large-scale garment manufacturer focused on office wear, with reasonable prices. It lacks strong associations with high fabric quality, durability, modern style, or premium status compared to competitors. Its personality leans towards traditional/serious.
-Weak Brand Identity: The current Hoa Tho logo and icon suffer from extremely poor recall (color, details, meaning) and weak, often non-existent or negative (plain, outdated), associations.
-Concept Validation: The "Comfortable Office Wear" concept tested very positively across all segments, aligning well with core consumer needs for quality, value, and a professional appearance.
-Claim Credibility Varies: Claims around "Transparency" and "Warranty" are deemed highly important, but trust levels are significantly lower in HCMC compared to HN and Da Nang, indicating regional skepticism.
-Naming Preference: Clear preference for Vietnamese brand names (both with and without diacritics accepted) over foreign names for a new premium brand.
+- Dominant Competitor & Awareness Gap: Viettien holds a commanding lead in awareness and usage. Hoa Tho suffers from very low Top-of-Mind and unaided awareness overall, making it largely invisible in Hanoi and HCMC.
+- Da Nang Stronghold & Paradox: Da Nang is Hoa Tho's key market with significantly higher aided awareness (88%) and usage (24%). However, this market also shows a high rejection rate (24% “won't buy/use”), indicating deep-seated issues even where known.
+- Quality Perception is Critical Barrier: The primary reasons for not choosing Hoa Tho are related to perceived poor fabric quality (fades easily, feels poor - 53% & 41% respectively) and being relatively unknown (24%).
+- Strengths Among Loyalists: Existing Hoa Tho users (though few) appreciate its perceived value (fair price - 50%), design variety (50%), and especially its sewing quality/craftsmanship (30%).
+- Positioning Mismatch: Hoa Tho is perceived as a traditional, large-scale garment manufacturer focused on office wear, with reasonable prices. It lacks strong associations with high fabric quality, durability, modern style, or premium status compared to competitors. Its personality leans towards traditional/serious.
+- Weak Brand Identity: The current Hoa Tho logo and icon suffer from extremely poor recall (color, details, meaning) and weak, often non-existent or negative (plain, outdated), associations.
+- Concept Validation: The "Comfortable Office Wear" concept tested very positively across all segments, aligning well with core consumer needs for quality, value, and a professional appearance.
+- Claim Credibility Varies: Claims around "Transparency" and "Warranty" are deemed highly important, but trust levels are significantly lower in HCMC compared to HN and Da Nang, indicating regional skepticism.
+- Naming Preference: Clear preference for Vietnamese brand names (both with and without diacritics accepted) over foreign names for a new premium brand.
 Parent Company Leverage: The Hoa Tho Corporation name carries significant weight, with high trust (82%) and belief (91%) in its capability to successfully launch a quality premium brand, offering a strong leverage point.
-Price Sensitivity & Regional Differences: Consumers are price-conscious, but clear willingness exists (especially among A-B segments and in Hanoi) to pay higher prices for perceived value/quality. Spending power is highest in Hanoi, followed by HCMC, then Da Nang.
-Channel Deficiency: Brand visibility heavily relies on physical points of sale (stores, trade fairs). Presence in other media and especially digital channels was extremely low (as of 2010), indicating a major gap.
+- Price Sensitivity & Regional Differences: Consumers are price-conscious, but clear willingness exists (especially among A-B segments and in Hanoi) to pay higher prices for perceived value/quality. Spending power is highest in Hanoi, followed by HCMC, then Da Nang.
+- Channel Deficiency: Brand visibility heavily relies on physical points of sale (stores, trade fairs). Presence in other media and especially digital channels was extremely low (as of 2010), indicating a major gap.
+</div>
