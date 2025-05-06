@@ -1,72 +1,109 @@
 ---
 layout: page
-title: Neural Network Uncertainty
-description: Final project from CIS545 Big Data Analysis class at Penn
-img: assets/img/nn-project_neural_net.png
+title: Hoa Tho Brand Positioning & Identity Analysis
+description: Final project from Marketing Data Analysis class at UEH
+img: assets/img/Hoa Tho.png
 importance: 1
 category: work
 ---
 
-Let's explore my final project for the CIS545 Big Data Analytics class I took at Penn. 
-Throughout the semester, we worked with review data on Amazon products. Our end goal was to 
-many machine learning performance-boosting tricks, such as using bag-of-words features and employing 
-PCA to reduce the dimensionality.
+Let's explore my final project for the Marketing Data Analysis class I took at UEH. 
+About this project
+This project involves the analysis of market research data commissioned by Tong Cong Ty Co Phan Det May Hoa Tho (Hoa Tho Corporation), a major player in the Vietnamese textile and garment industry. 
+The research, conducted in April 2010 by The Pathfinder, focused on understanding Hoa Tho's brand positioning and identity within the competitive men's office wear market segment. 
 
-My project processes review data using [gensim](https://radimrehurek.com/gensim/) and 
-implements a neural network (NN) in [Keras](https://keras.io) to predict ratings and their uncertainties. 
-I developed a simple metric to describe the confidence of NN predictions, finding that the NN tends to be 
-most confident in its 1-star predictions.
+Primary Goal
+The primary goal of this analysis and the accompanying interactive dashboard is to gain actionable insights from the 2010 market research survey. This includes evaluating Hoa Tho's brand health, competitive positioning, brand identity perception, and target audience preferences, thereby providing a data-driven foundation for Hoa Tho's management, marketing, and product development teams to formulate effective branding and market penetration strategies.
+This dashboard and report aims to answer critical business questions for Hoa Tho stakeholders (Management, Marketing, Product Development, Sales):
 
-You can follow along with [this Google Colab](https://colab.research.google.com/drive/1UYSmG4MCaM9k20Zf6Zxt0yMHVo0xtAt1?usp=sharing) notebook.
-The main idea is that the NN predicts scores for each star rating, rather than predicting a star rating directly. This lends itself well to 
-uncertainty analysis -- we can interpret the close calls as being less certain than the blowouts. 
+Brand Health & Performance:
+- How aware are target consumers (men's office wear buyers) of the Hoa Tho brand compared to key competitors (Viettien, May 10, An Phuoc, etc.)? (Top-of-Mind, Unaided and Aided)
+- What is Hoa Tho's market penetration in terms of usage (ever purchased, main brand)? How does this vary by region (Hanoi, Da Nang, Ho Chi Minh city)?
+- How satisfied are current Hoa Tho users? How does this compare to competitors?
+- What are the primary reasons consumers choose Hoa Tho? What are the main reasons they don't choose or stop using Hoa Tho?
 
-I found three main conclusions:
-1. The standard deviation of the scores and the margin (defined as the difference between the two highest scores) lead to similar conclusions. 
-See their correlation in the left figure below. 
-2. The blowouts tend to exist mainly for negative reviews. The NN picks up on negative words like "bad", "junk", "mistake", "unimpressed", and "dirty" 
-and makes a confident (and correct) prediction. See the middle figure below.
-3. The prediction error and margin are negatively correlated such that higher confidence implies lower error. In other words, the NN is precise 
-AND accurate. See the right figure below.
+Positioning & Brand Image:
+- How is Hoa Tho perceived on key attributes (e.g., fabric quality, sewing quality, design variety, price, service, company reputation) relative to competitors?
+What is the perceived personality of the Hoa Tho brand (e.g., traditional, modern, reliable, premium)?
+Where does Hoa Tho stand in the competitive landscape based on consumer perceptions?
+Brand Identity Perception:
+- How memorable and recognizable is the Hoa Tho logo (colors, specific elements, icon)?
+What thoughts, feelings, or associations does the current Hoa Tho logo evoke?
+- How is the parent company (Hoa Tho Corporation) perceived? How much trust is associated with it?
+- What is the perceived potential and credibility of Hoa Tho launching a new, potentially premium, brand? What type of brand name (Vietnamese vs. Foreign, with/without diacritics) is preferred for such a brand?
+
+Market & Customer Insights:
+- What are the demographic and socio-economic characteristics of the target audience?
+- What factors are most important to consumers when selecting men's office wear?
+How much are different consumer segments (by city, SES, age) willing to spend on office wear (regular vs. premium)?
+
+Concept & Strategy Viability:
+- How receptive is the target market to a new concept focused on "Comfortable Office Wear"?
+- How important and credible are specific brand promises like "Honesty & Transparency" and "Strict Warranty Commitment"? Does credibility vary by region?
+- Which communication channels are most effective for reaching the target audience?
+
+The dataset
+The analysis is based on primary quantitative data collected through a market research survey conducted by The Pathfinder in April 2010.
+Source: Face-to-face interviews using a structured questionnaire.
+Sample: 500 male respondents aged 20-55.
+Targeting Criteria: Belonging to Socio-Economic Status groups A, B, or C; regularly purchase and wear office attire (shirts, trousers); purchased office wear within the last 3 months; intended to purchase within the next 6 months.
+Geography: Respondents recruited from three major Vietnamese cities: Hanoi (n=150), Da Nang (n=200), and Ho Chi Minh City (n=150). Quota sampling was employed based on city, age group (20-35 vs. 36-55), and class (A-B vs. C).
+Data Collected: Brand awareness (TOM/unaided/aided), brand usage & frequency, brand loyalty & satisfaction, reasons for choice/rejection, importance ratings for product/service attributes, brand image/personality associations, logo/icon recall & perception, name preference testing, concept testing ("Comfortable Office Wear", specific claims), price sensitivity/willingness-to-pay, media consumption/channel exposure, and detailed demographics
+
+The report/dashboard
+The findings are presented in an interactive, multi-page Power BI dashboard. This format allows stakeholders to dynamically explore the data, apply filters across various dimensions (e.g., City, Class, Age Group, Education Level), and drill down into specific areas for deeper understanding. The dashboard is structured logically to guide users through the analysis:
+Home: An introductory page setting the context for the report
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nn-project_margin_vs_stddev.png" title="margin vs std deviation" 
-		class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nn-project_freq_vs_rating_for_margins.png" title="frequency of each rating, for margin bins"
-		class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nn-project_error_vs_margin.png" title="error vs margin" 
+        {% include figure.html path="assets/img/HoaTho_1.png" title="Home Page" 
 		class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    (left) Frequency of star ratings for low-margin (red), medium-margin (green), and high-margin (blue) predictions. 
-	High margin predictions have a clear tendency towards negative reviews, and low margin predictions tpredictions tend to positive reviews.
-	
-	(middle) Standard deviation of predictions vs. margins. The clear positive correlation indicates that either metric will perform similarly
-	
-	(right) Prediction error as a function of prediction margin, binned in increments of 0.1. The negative trend indicates that 
-	high-confidence (low margin) NN predictions tend to actually be more accurate.
+
+Brand Health: Key performance indicators related to brand awareness, usage levels, user satisfaction ratings, and the underlying reasons driving brand choice or rejection.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/HoaTho_2.png" title="Home Page" 
+		class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
+    
+Positioning & Brand Image: Analysis of Hoa Tho's perceived strengths and weaknesses on key attributes, competitive positioning maps (using Correspondence Analysis), and exploration of the brand's perceived personality.
 
-These findings are encapsulated in the table below, which lists the prediction uncertainties for different margins. Now, we can apply this 
-table to quantify uncertainties in the NN predictions! I show in the Google Colab notebook that this leads to fewer surprises, in which 
-NN predictions are far from the actual scores.
-
-| margin | error bar |
-|--------|-----------|
-| 0.0    | 1.1       |
-| 0.1    | 0.8       |
-| 0.2    | 0.6       |
-| 0.3    | 0.5       |
-| 0.4    | 0.4       |
-| 0.5    | 0.3       |
-| 0.6    | 0.2       |
-| 0.7    | 0.2       |
-| 0.8    | 0.1       |
-| 0.9    | 0.0       |
-| 1.0    | 0.0       |
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/HoaTho_3.png" title="Home Page" 
+		class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+	
+Logo & Brand Identity: Evaluation of the current logo's effectiveness (recall, recognition, associations), testing name preferences, and assessing perceptions of the parent company and its potential to launch new brands. 
+Concept Test, Pricing & Channels: Assessment of the "Comfortable Office Wear" concept, evaluation of specific marketing claims, analysis of price points across segments, and insights into effective communication channels
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/HoaTho_4.png" title="Home Page" 
+		class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+Summary & Recommendations: A concluding page summarizing the most critical findings and outlining strategic recommendations for Hoa Tho based on the data analysis. Beside that is a visual breakdown of the sample characteristics (geography, age, class, education, income, marital status).	
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/HoaTho_5.png" title="Home Page" 
+		class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+Key Insights
+Dominant Competitor & Awareness Gap: Viettien holds a commanding lead in awareness and usage. Hoa Tho suffers from very low Top-of-Mind and unaided awareness overall, making it largely invisible in Hanoi and HCMC.
+Da Nang Stronghold & Paradox: Da Nang is Hoa Tho's key market with significantly higher aided awareness (88%) and usage (24%). However, this market also shows a high rejection rate (24% “won't buy/use”), indicating deep-seated issues even where known.
+Quality Perception is Critical Barrier: The primary reasons for not choosing Hoa Tho are related to perceived poor fabric quality (fades easily, feels poor - 53% & 41% respectively) and being relatively unknown (24%).
+Strengths Among Loyalists: Existing Hoa Tho users (though few) appreciate its perceived value (fair price - 50%), design variety (50%), and especially its sewing quality/craftsmanship (30%).
+Positioning Mismatch: Hoa Tho is perceived as a traditional, large-scale garment manufacturer focused on office wear, with reasonable prices. It lacks strong associations with high fabric quality, durability, modern style, or premium status compared to competitors. Its personality leans towards traditional/serious.
+Weak Brand Identity: The current Hoa Tho logo and icon suffer from extremely poor recall (color, details, meaning) and weak, often non-existent or negative (plain, outdated), associations.
+Concept Validation: The "Comfortable Office Wear" concept tested very positively across all segments, aligning well with core consumer needs for quality, value, and a professional appearance.
+Claim Credibility Varies: Claims around "Transparency" and "Warranty" are deemed highly important, but trust levels are significantly lower in HCMC compared to HN and Da Nang, indicating regional skepticism.
+Naming Preference: Clear preference for Vietnamese brand names (both with and without diacritics accepted) over foreign names for a new premium brand.
+Parent Company Leverage: The Hoa Tho Corporation name carries significant weight, with high trust (82%) and belief (91%) in its capability to successfully launch a quality premium brand, offering a strong leverage point.
+Price Sensitivity & Regional Differences: Consumers are price-conscious, but clear willingness exists (especially among A-B segments and in Hanoi) to pay higher prices for perceived value/quality. Spending power is highest in Hanoi, followed by HCMC, then Da Nang.
+Channel Deficiency: Brand visibility heavily relies on physical points of sale (stores, trade fairs). Presence in other media and especially digital channels was extremely low (as of 2010), indicating a major gap.

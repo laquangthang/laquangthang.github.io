@@ -4,10 +4,10 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 1
-cv_pdf: Glazar_James_CV_11-2022.pdf
+cv_pdf: CV - La Quang Thang - Data Processing.pdf
 ---
 
-See below, or click this [link](../assets/pdf/Activity-Exemplar_-Project-Requirements-Document---Cyclistic.pdf)
+See below, or click this [link](../assets/pdf/CV - La Quang Thang - Data Processing.pdf)
 
 <div style="margin-left: auto;margin-right: auto;">
     <object data="../assets/pdf/Activity-Exemplar_-Project-Requirements-Document---Cyclistic.pdf" type="application/pdf" width="825px" height="1175px">
